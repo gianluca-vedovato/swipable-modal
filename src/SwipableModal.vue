@@ -15,7 +15,7 @@
           :class="position"
         >
           <div class="swipable-modal__content__main">
-            <slot name="content" />
+            <slot />
           </div>
           <div class="swipable-modal__content__handler">
             <span />
