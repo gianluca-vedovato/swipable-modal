@@ -40,5 +40,4 @@ You can use the plugin as a simple component in Vue.
 | position          |      | String          |       'top'                                         | Position of the swipable modal. Set to "top" or "bottom"                                                                                                                          
 
 ## Coming soon
-X axis supported
-Some other customizations
+X axis suppor and some other customizations

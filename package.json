@@ -1,6 +1,6 @@
 {
   "name": "swipable-modal",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/swipablemodal.umd.js",
   "module": "dist/swipablemodal.esm.js",
   "unpkg": "dist/swipablemodal.min.js",
