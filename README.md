@@ -1,6 +1,8 @@
 # swipable-modal
 v0.0.3
-Vue plugin to create a simple modal with swipable behavior on mobile devices.
+Vue plugin - Create a simple swipable modal on mobile devices.
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/46995810/135887586-40e571d7-ab61-4627-818b-dddfafacb000.gif)
+
 ## Installation
 ```
 npm i vue-swipable-modal
